@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Yann Kosal 👋
 
-<!--
-**yannkosal/yannkosal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer** based in Phnom Penh, Cambodia 🇰🇭
 
-Here are some ideas to get you started:
+I build **web applications, APIs, and business systems**, with a focus on clean, scalable, and reliable solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+**Backend:** PHP · Laravel · Java · Spring Boot
+**Frontend:** React · Vue · JavaScript · HTML · CSS · Tailwind CSS
+**Database:** MySQL · PostgreSQL
+**DevOps & Infrastructure:** Docker · Git · GitHub · Linux · Proxmox · Terraform
+**Integration:** REST APIs · ERP / Business Central
+
+### 🚀 Currently
+
+* Building full-stack applications with Laravel and modern JavaScript
+* Learning deeper **DevOps, cloud, virtualization, and system architecture**
+* Working on personal projects and practical infrastructure labs
+
+### 📫 Connect
+
+* **LinkedIn:** https://www.linkedin.com/in/yann-kosal/
+* **Portfolio / Blog:** [yksdev.com](http://yksdev.com/)
+* **Email:** kosal.yann21@gmail.com
