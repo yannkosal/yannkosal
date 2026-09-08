@@ -6,11 +6,11 @@ I build **web applications, APIs, and business systems**, with a focus on clean,
 
 ### 🛠️ Tech Stack
 
-**Backend:** PHP · Laravel · Java · Spring Boot
-**Frontend:** React · Vue · JavaScript · HTML · CSS · Tailwind CSS
-**Database:** MySQL · PostgreSQL
-**DevOps & Infrastructure:** Docker · Git · GitHub · Linux · Proxmox · Terraform
-**Integration:** REST APIs · ERP / Business Central
+* Backend: PHP · Laravel · Java · Spring Boot
+* Frontend: ReactJS · VueJS · JavaScript · HTML · CSS · Tailwind CSS
+* Database: MySQL · PostgreSQL
+* DevOps & Infrastructure:** Docker · Git · GitHub · Linux · Proxmox · Terraform
+* Integration: REST APIs · ERP / Business Central
 
 ### 🚀 Currently
 
